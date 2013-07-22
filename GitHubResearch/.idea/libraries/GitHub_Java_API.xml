@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GitHub Java API">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/workspace/egit-github/org.eclipse.egit.github.core/target" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Documents/workspace/egit-github/org.eclipse.egit.github.core/target/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/workspace/egit-github/org.eclipse.egit.github.core/target" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/workspace/egit-github/org.eclipse.egit.github.core/target" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/workspace/egit-github/org.eclipse.egit.github.core/target" recursive="false" type="SOURCES" />
+  </library>
+</component>

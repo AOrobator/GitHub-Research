@@ -1,0 +1,256 @@
+#1  c9s (Pedro)	7363	Perl	Taiwan
+#2	weierophinney (Matthew Weier O'Phinney)	7264	PHP	Sioux Falls, SD, USA
+#3	visionmedia (TJ Holowaychuk)	7253	JavaScript	Victoria, BC, Canada
+#4	fabpot (Fabien Potencier)	7231	PHP	Paris, France
+#5	fsouza (Francisco Souza)	5415	Python	Rio de Janeiro, Brazil
+#6	tmcw (Tom MacWright)	5200	JavaScript	Washington, DC
+#7	taylorotwell (Taylor Otwell)	5166	PHP	Arkansas
+#8	substack (James Halliday)	4984	JavaScript	Oakland, California, USA
+#9	dominictarr (Dominic Tarr)	4979	JavaScript	New Zealand
+#10	ekmett (Edward Kmett)	4784	Haskell	Cambridge, MA
+#11	tokuhirom (Tokuhiro Matsuno)	4373	Perl	Tokyo, Japan
+#12	michaelklishin (Michael Klishin)	4363	Ruby
+#13	kennethreitz (Kenneth Reitz)	4338	Python	Winchester, VA
+#14	Raynos (Raynos)	4047	JavaScript	San Francisco
+#15	zenorocha (Zeno Rocha)	3942	JavaScript	Rio de Janeiro, Brazil
+#16	dcramer (David Cramer)	3898	Python	San Francisco, CA
+#17	jspahrsummers (Justin Spahr-Summers)	3875	Objective-C	Seattle, WA
+#18	kripken (Alon Zakai)	3768	JavaScript
+#19	lepture (Hsiaoming Yang)	3763	Python	Hangzhou, China
+#20	springmeyer (Dane Springmeyer)	3729	C	Winthrop, WA
+#21	drnic (Dr Nic Williams)	3645	Ruby	Palo Alto, CA, USA
+#22	sferik (Erik Michaels-Ober)	3604	Ruby	Berlin and San Francisco
+#23	radar (Ryan Bigg)	3558	Ruby	Melbourne, Australia
+#24	Shougo (Shougo)	3553	VimL	Japan
+#25	postmodern (Postmodern)	3518	Ruby
+#26	lifesinger (lifesinger)	3483	JavaScript	Hangzhou, China
+#27	pippinsplugins (Pippin Williamson)	3463	PHP	Lawrence, KS
+#28	balupton (Benjamin Arthur Lupton)	3459	JavaScript	Sydney, Australia
+#29	davglass (Dav Glass)	3368	JavaScript	Marion, IL
+#30	ornicar (Thibault Duplessis)	3267	PHP	France
+#31	jordansissel (Jordan Sissel)	3218	Ruby	Silicon Valley
+#32	jeromeetienne (Jerome Etienne)	3165	JavaScript	Paris, france
+#33	josevalim (José Valim)	3147	Ruby	Kraków, Poland
+#34	isaacs (Isaac Z. Schlueter)	3138	JavaScript	Oakland CA
+#35	jtimberman (Joshua Timberman)	3066	Ruby	Denver, CO
+#36	fogus (Fogus)	3048	Clojure	DC
+#37	aheckmann (Aaron Heckmann)	3012	JavaScript	San Jose, CA
+#38	ednapiranha (Jen Fong-Adwent)	2979	JavaScript	Toronto
+#39	gka	2954	Python	Germany
+#40	hueniverse (Eran Hammer)	2893	JavaScript	Los Gatos, CA
+#41	scribu (Cristi Burcă)	2874	PHP	Cluj-Napoca, Romania
+#42	andrewsmedina (Andrews Medina)	2830	Python	Rio de Janeiro
+#43	alex (Alex Gaynor)	2820	Python	San Francisco
+#44	avsm (Anil Madhavapeddy)	2802	OCaml	Cambridge, UK
+#45	lsmith77 (Lukas Kahwe Smith)	2762	PHP	Zurich, Switzerland
+#46	maxogden (Max Ogden)	2747	JavaScript	Oakland, CA
+#47	svenfuchs (Sven Fuchs)	2713	Ruby	Germany/Berlin
+#48	rstacruz (Rico Sta. Cruz)	2708	Ruby	Manila, Philippines
+#49	paulmillr (Paul Miller)	2668	JavaScript	Worldwide
+#50	samuelclay (Samuel Clay)	2651	JavaScript	San Francisco
+#51	jeremydmiller (Jeremy D. Miller)	2641	C	Austin, TX
+#52	mitchellh (Mitchell Hashimoto)	2639	Ruby	San Francisco, CA
+#53	willdurand (William Durand)	2620	PHP	France
+#54	yihui (Yihui Xie)	2610	R	Ames, IA
+#55	snoyberg (Michael Snoyman)	2593	Haskell	Israel
+#56	igorw (Igor Wiedler)	2577	PHP	Winterthur, Zürich, Switzerland
+#57	steveklabnik (Steve Klabnik)	2557	Ruby	Santa Monica, CA
+#58	sindresorhus (Sindre Sorhus)	2553	JavaScript	Norway
+#59	kohsuke (Kohsuke Kawaguchi)	2529	Java	San Jose, California
+#60	steipete (Peter Steinberger)	2499	Objective-C	Vienna, Austria
+#61	rafaelfranca (Rafael Mendonça França)	2487	Ruby	São Paulo, Brazil
+#62	Gozala (Irakli Gozalishvili)	2481	JavaScript	San Francisco, USA
+#63	mattn (mattn)	2479	VimL	Osaka, Japan
+#64	JakeWharton (Jake Wharton)	2475	Java	San Francisco, CA
+#65	durran (Durran Jordan)	2471	Ruby	Berlin, Deutschland
+#66	viatropos (Lance Pollard)	2382	JavaScript	San Francisco
+#67	davidfowl (David Fowler)	2380	C	Bellevue, WA
+#68	RubyLouvre (司徒正美)	2373	JavaScript	China
+#69	torvalds (Linus Torvalds)	2362	C	Portland, OR
+#70	domenic (Domenic Denicola)	2360	JavaScript	New York, NY
+#71	beberlei (Benjamin Eberlei)	2323	PHP	Germany
+#72	kevinsawicki (Kevin Sawicki)	2319	Java	Redwood City, CA
+#73	ayende (Ayende Rahien)	2288	C	Israel
+#74	mattt (Mattt Thompson)	2270	Ruby	San Francisco, CA
+#75	dustin (Dustin Sallings)	2256	Go	Santa Clara, CA
+#76	scottgonzalez (Scott González)	2236	JavaScript	York, PA
+#77	dg (David Grudl)	2208	PHP
+#78	jaredhanson (Jared Hanson)	2184	JavaScript	Oakland, CA
+#79	ericam (Eric Meyer)	2172	Ruby	Denver, CO
+#80	ask (Ask Solem Hoel)	2172	Python	London, UK
+#81	pydanny (Daniel Greenfeld)	2152	Python	Los Angeles, CA
+#82	indutny (Fedor Indutny)	2146	JavaScript	Russia
+#83	purcell (Steve Purcell)	2139	Emacs	Chester, UK
+#84	agentzh (Yichun Zhang)	2138	Perl	San Francisco, CA, USA
+#85	marijnh (Marijn Haverbeke)	2127	JavaScript	Berlin
+#86	xpaulbettsx (Paul Betts)	2124	C	San Francisco, CA
+#87	mythz (Demis Bellot)	2123	JavaScript	New York
+#88	TooTallNate (Nathan Rajlich)	2110	JavaScript	San Rafael, CA
+#89	ujihisa	2081	Ruby	Vancouver, Canada
+#90	mbostock (Mike Bostock)	2080	JavaScript	San Francisco, CA
+#91	gitster (Junio C Hamano)	2066	Perl	Mountain View, CA
+#92	adamv (Adam Vandenberg)	2062	Python	Issaquah, WA
+#93	markstory (Mark Story)	2059	PHP	Toronto, Ontario
+#94	jwiegley (John Wiegley)	2015	Emacs	Peoria, Illinois, USA
+#95	mourner (Vladimir Agafonkin)	1992	JavaScript	Kiev, Ukraine
+#96	bergie (Henri Bergius)	1988	JavaScript	Berlin, Germany
+#97	Seldaek (Jordi Boggiano)	1986	PHP	Zürich, Zurich, Switzerland
+#98	carljm (Carl Meyer)	1917	Python	Rapid City, SD
+#99	bbatsov (Bozhidar Batsov)	1868	Emacs	Sofia, Bulgaria
+#100	drogus (Piotr Sarnacki)	1861	Ruby	Warsaw
+#101	sorbits (Allan Odgaard)	1849	Ruby	Denmark
+#102	example42 (Alessandro Franceschi)	1846	Puppet	Milan, Italy
+#103	charliesome (Charlie Somerville)	1824	Ruby	Melbourne, Australia
+#104	jdalton (John-David Dalton)	1824	JavaScript	http://twitter.com/jdalton
+#105	jcoglan (James Coglan)	1801	Ruby	London, UK
+#106	addyosmani (Addy Osmani)	1797	JavaScript	London, England
+#107	koush (Koushik Dutta)	1794	Shell	Seattle, WA
+#108	hadley (hadley wickham)	1777	R	Houston, TX
+#109	Marak	1777	JavaScript	San Francisco, California
+#110	Ocramius (Marco Pivetta)	1762	PHP	Germany
+#111	carlosantoniodasilva (Carlos Antonio da Silva)	1735	Ruby	Rio do Sul, Santa Catarina, Brasil
+#112	miyagawa (Tatsuhiko Miyagawa)	1725	Perl	San Francisco, CA
+#113	stephenmcd (Stephen McDonald)	1722	Python	Sydney Australia
+#114	qiangxue (Qiang Xue)	1709	PHP	Virginia, U.S.A.
+#115	rjbs (Ricardo Signes)	1704	Perl	Bethlehem, PA, USA
+#116	shiffman (Daniel Shiffman)	1703	Java
+#117	nddrylliog (Amos Wenger)	1694	ooc	Helvetia
+#118	benoitc (Benoit Chesneau)	1684	Python	Creil, France
+#119	gfx (Fuji, Goro)	1675	Perl	Tokyo, Japan
+#120	jashkenas (Jeremy Ashkenas)	1658	Ruby	On the Road
+#121	ProLoser (Dean Sofer)	1645	PHP	San Francisco
+#122	kytrinyx (Katrina Owen)	1643	Ruby	Denver, Colorado
+#123	faux123 (Paul Reioux)	1633	Shell	Los Angeles
+#124	Cocoanetics (Oliver Drobnik)	1621	Objective-C	Weistrach, Austria
+#125	dkubb (Dan Kubb)	1607	Ruby	Mission, BC, Canada
+#126	soyjavi (Javi Jiménez)	1600	CoffeeScript	Bilbao, ES
+#127	remy (Remy Sharp)	1587	JavaScript	Brighton, UK
+#128	JacksonTian (Jackson Tian)	1586	JavaScript	Hangzhou, China
+#129	kraih (Sebastian Riedel)	1584	Perl	Germany
+#130	jcasimir (Jeff Casimir)	1581	Ruby	Washington, DC
+#131	andrew (Andrew Nesbitt)	1578	Ruby	Bath, UK
+#132	kana (Kana Natsuno)	1568	VimL	Tokyo, Japan
+#133	indexzero (Charlie Robbins)	1565	JavaScript	NYC
+#134	n1k0 (Nicolas Perriault)	1563	JavaScript	Montpellier, France
+#135	graemerocher	1562	Java
+#136	creationix (Tim Caswell)	1550	JavaScript	Red Lick, TX, USA
+#137	jgm (John MacFarlane)	1549	Haskell	Berkeley, CA
+#138	phalcon (Phalcon)	1544	PHP
+#139	desandro (David DeSandro)	1538	JavaScript	Brooklyn, NY
+#140	weaverryan (Ryan Weaver)	1536	PHP	Nashville, TN
+#141	mizzy (Gosuke Miyashita)	1535	Ruby	Kanagawa, Japan
+#142	jrburke (James Burke)	1530	JavaScript
+#143	derickbailey (Derick Bailey)	1529	JavaScript	Waco, TX
+#144	tenderlove (Aaron Patterson)	1516	Ruby	Seattle
+#145	antimatter15 (Kevin Kwok)	1500	JavaScript
+#146	fengmk2 (fengmk2)	1494	JavaScript	Hangzhou, China
+#147	lloyd (Lloyd Hilaiel)	1484	JavaScript	Denver, Colorado
+#148	rkh (Konstantin Haase)	1484	Ruby	Berlin
+#149	hsbt (SHIBATA Hiroshi)	1481	Ruby	Japan
+#150	Constellation (Yusuke Suzuki)	1474	JavaScript	Yokohama, Japan
+#151	yrashk (Yurii Rashkovskii)	1465	Erlang	Vancouver, BC, Canada
+#152	jnunemaker (John Nunemaker)	1464	Ruby	South Bend, IN, USA
+#153	tarcieri (Tony Arcieri)	1461	Ruby	San Francisco, CA
+#154	everzet (Konstantin Kudryashov)	1454	PHP	London, UK
+#155	ricardoquesada (Ricardo Quesada)	1451	C	San Francisco, CA. USA
+#156	derickr (Derick Rethans)	1445	PHP	London, England
+#157	jmettraux (John Mettraux)	1440	Ruby	Hiroshima
+#158	joshaber (Josh Abernathy)	1434	Objective-C	Yellow Springs, OH
+#159	jamesward (James Ward)	1428	Java
+#160	pquerna (Paul Querna)	1415	Shell	San Francisco, CA
+#161	technomancy (Phil Hagelberg)	1408	Clojure	Seattle, WA, USA
+#162	felixge (Felix Geisendörfer)	1385	JavaScript	Berlin, Germany
+#163	kaepora (Nadim Kobeissi)	1383	JavaScript	Montréal, QC
+#164	josh (Joshua Peek)	1380	Ruby	Chicago, IL
+#165	mrdoob (Mr.doob)	1374	JavaScript	Barcelona, Spain
+#166	magnars (Magnar Sveen)	1366	Emacs	Norway
+#167	tpope (Tim Pope)	1364	VimL	Brooklyn, NY
+#168	jedi4ever (Patrick Debois)	1353	Ruby	Belgium
+#169	ai (Andrey Sitnik)	1340	Ruby	Saint Petersburg, Russia
+#170	aslakhellesoy (Aslak Hellesøy)	1335	Ruby	London, UK
+#171	tomas (Tomás Pollak)	1333	JavaScript	Santiago, Chile
+#172	rwldrn (Rick Waldron)	1332	JavaScript	Brooklyn, NY
+#173	jmathai (Jaisen Mathai)	1327	PHP	San Francisco / Sunnyvale, CA USA
+#174	feross (Feross Aboukhadijeh)	1326	JavaScript	Stanford, CA
+#175	straup (Aaron Straup Cope)	1322	Python	New York City
+#176	bitprophet (Jeff Forcier)	1320	Python	Lafayette, CA
+#177	headius (Charles Oliver Nutter)	1315	Ruby
+#178	daleharvey (Dale Harvey)	1314	JavaScript	Edinburgh, Scotland
+#179	rdegges (Randall Degges)	1313	Python	Bakersfield
+#180	josegonzalez (Jose Diaz-Gonzalez)	1310	PHP	New York, NY
+#181	Raynes (Anthony Grimes)	1310	Clojure	Los Angeles, CA
+#182	blakewatters (Blake Watters)	1296	Ruby	New York City, NY
+#183	necolas (Nicolas Gallagher)	1283	JavaScript	San Francisco, CA
+#184	laruence (Xinchen Hui)	1273	PHP	China
+#185	soffes (Sam Soffes)	1249	Ruby	Louisville
+#186	FooBarWidget (Hongli Lai)	1234	Ruby	Earth
+#187	jimweirich (Jim Weirich)	1230	Ruby	Cincinnati
+#188	3rd-Eden (Arnout Kazemier)	1229	JavaScript	The Netherlands
+#189	seancribbs (Sean Cribbs)	1229	Ruby	DeKalb, IL
+#190	harrah (Mark Harrah)	1227	Scala	Boston, MA
+#191	flyerhzm (Richard Huang)	1226	Ruby	Shanghai, China
+#192	vojtajina (Vojta Jina)	1224	JavaScript	San Francisco Bay Area
+#193	jesusabdullah (Joshua Holbrook)	1221	JavaScript	Alaska
+#194	matz (Yukihiro "Matz" Matsumoto)	1220		Matsue, Japan
+#195	btford (Brian Ford)	1219	JavaScript	Mountain View, CA
+#196	sjl (Steve Losh)	1210	Python	Rochester, NY
+#197	alloy (Eloy Durán)	1202	Ruby	Amsterdam, the Netherlands
+#198	johnmyleswhite (John Myles White)	1195	Julia	Brooklyn, NY
+#199	audreyt (唐鳳)	1192	Perl	Taipei, Taiwan
+#200	schmittjoh (Johannes)	1192	PHP
+#201	lestrrat (lestrrat)	1191	Perl	Tokyo, Japan
+#202	darwin (Antonin Hildebrand)	1183	JavaScript	Prague, Czech Republic
+#203	bnoordhuis (Ben Noordhuis)	1179	C	Gouda, the Netherlands
+#204	jzaefferer (Jörn Zaefferer)	1171	JavaScript	Cologne, Germany
+#205	SamSaffron (Sam)	1171	Ruby	Sydney, Australia
+#206	mxcl (Max Howell)	1162	C	Chicago, IL
+#207	robashton (Rob "Hurricane" Ashton)	1162	JavaScript	London
+#208	geemus (Wesley Beary)	1159	Ruby	Iowa City, IA
+#209	mdo (Mark Otto)	1158	JavaScript	San Francisco, CA
+#210	levey (朱建刚)	1155	Objective-C	Hangzhou, China
+#211	indirect (André Arko)	1145	Ruby	San Francisco
+#212	mathiasbynens (Mathias Bynens)	1142	JavaScript	Belgium
+#213	kriskowal (Kris Kowal)	1141	JavaScript	Pasadena, CA, USA
+#214	dennisreimann (Dennis Reimann)	1140	Ruby	Bremen, Germany
+#215	marcuswestin (Marcus Westin)	1136	JavaScript	Mountain View, CA
+#216	mmcgrana (Mark McGranaghan)	1135	Clojure	San Francisco, CA
+#217	thomasdavis (Thomas Davis)	1131	JavaScript	Brisbane, Australia
+#218	darkwing (David Walsh)	1127	JavaScript	Madison, Wisconsin, United States
+#219	csswizardry (Harry Roberts)	1126	Shell	Leeds, UK
+#220	vrana (Jakub Vrána)	1124	PHP
+#221	zenspider (Ryan Davis)	1123	Ruby	Seattle, WA
+#222	parndt (Philip Arndt)	1122	Ruby	Christchurch, New Zealand
+#223	sergeche (Sergey Chikuyonok)	1121	JavaScript	Moscow, Russia
+#224	mde (Matthew Eernisse)	1120	JavaScript	San Francisco, California, USA
+#225	ingydotnet (Ingy döt Net)	1120	Perl	Seattle
+#226	happypeter (Peter Wang)	1105	Ruby	Beijing China
+#227	cpw	1101	Java
+#228	ddollar (David Dollar)	1096	Ruby	Atlanta, GA
+#229	codahale (Coda Hale)	1095	Java	Berkeley, CA
+#230	ebidel (Eric Bidelman)	1093	JavaScript	San Francisco, CA
+#231	pgte (Pedro Teixeira)	1091	JavaScript	Portugal
+#232	jtauber (James Tauber)	1090	Python	Burlington, MA
+#233	obviousjim (James George)	1089	C	Brooklyn, New York
+#234	loopj (James Smith)	1088	JavaScript	San Francisco, CA
+#235	guille (Guillermo Rauch)	1085	JavaScript	SF
+#236	roidrage (Mathias Meyer)	1084	Ruby	Berlin, Germany
+#237	solnic (Piotr Solnica)	1083	Ruby	Poland, Kraków
+#238	kylemcdonald (Kyle McDonald)	1082	C	Brooklyn, New York
+#239	ianstormtaylor (Ian Storm Taylor)	1080	JavaScript	Cambridge, MA
+#240	saberma (Saber)	1080	Ruby	ShenZhen China
+#241	pengwynn (Wynn Netherland)	1079	Ruby	TX
+#242	michael (Michael Aufreiter)	1075	JavaScript	Linz, Austria
+#243	michaelficarra (Michael Ficarra)	1074	JavaScript	Chicago, IL
+#244	tyru (tyru)	1068	VimL
+#245	yuvipanda (Yuvi Panda)	1052	Python	Chennai
+#246	schneems (Richard Schneeman)	1050	Ruby	Austin, Tx
+#247	chrisbanes (Chris Banes)	1039	Java	London, UK
+#248	stof (Christophe Coevoet)	1036	PHP	Paris
+#249	jaspervdj (Jasper Van der Jeugt)	1028	Haskell	Lokeren & Ghent, Belgium
+#250	freexperia (jerpelea)	1027	C
+#251	wesm (Wes McKinney)	1019	Python	San Francisco, CA
+#252	ariya (Ariya Hidayat)	1013	JavaScript
+#253	astaxie (astaxie)	1010	Go	shanghai china
+#254	cyanogen (Steve Kondik)	1005	Perl	Seattle, WA
+#255	sebastianbergmann (Sebastian Bergmann)	1002	PHP	Siegburg, Germany
+#256	yinwang0 (Yin Wang)
